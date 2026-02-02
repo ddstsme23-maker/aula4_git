@@ -1,2 +1,3 @@
 aula git 2 
 me ajuda por favor
+git push -u origin = adiciona no github
